@@ -1,0 +1,5 @@
+Flask==2.0.3  # Versão mais antiga, compatível com o typer 0.3.2
+Werkzeug==2.0.3  # Versão que ainda contém 'url_quote'
+spleeter==2.4.0
+numpy==1.21.6
+typer==0.3.2  # Manter a versão que exige click<7.2.0
